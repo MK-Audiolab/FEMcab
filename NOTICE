@@ -1,0 +1,33 @@
+MK-LAB FEMcab
+Copyright (C) 2026 MK-LAB (MK-LΛB), https://mk-audiolab.de
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General
+Public License as published by the Free Software Foundation, either version 3 of the License, or (at your
+option) any later version, with the additional term below. The licence is in the file LICENSE (LICENSE.txt in
+the installed program).
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License
+for more details.
+
+
+Additional term under section 7(b) of the GNU General Public License, version 3
+-------------------------------------------------------------------------------
+
+If you convey this program or a work based on it, in whole or in part, in source or in object form, you must
+
+  1. keep this notice and the copyright notices in its source files, and
+  2. state, in the Appropriate Legal Notices of your work and in its documentation:
+
+       Based on MK-LAB FEMcab by MK-LAB, https://mk-audiolab.de
+
+This term is a requirement to preserve author attributions as permitted by section 7(b) of the GNU General
+Public License, version 3. It applies to every part of this program that carries a notice pointing to this
+file.
+
+
+Other software
+--------------
+
+FEMcab uses software of other authors under their own licences, among them gmsh, SuiteSparse (CHOLMOD),
+NumPy, SciPy, React and three.js. In the installed program, their licences are in the folder "licenses".
